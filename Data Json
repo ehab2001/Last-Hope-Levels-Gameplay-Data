@@ -1,12 +1,12 @@
 {
-  "version": 6,
+  "version": 7,
   "data": [
     {
       "mpv": 90,
-      "msd": 0.35,
+      "msd": 0.4,
       "nov": 3,
       "tbv": 10,
-      "lvh": 120
+      "lvh": 150
     },
     {
       "mpv": 70,
